@@ -1,0 +1,5 @@
+# Local settings (may contain sensitive data)
+settings.local.json
+
+# OS files
+.DS_Store
